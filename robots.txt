@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shengachoo.abrams.ventures/sitemap.xml
